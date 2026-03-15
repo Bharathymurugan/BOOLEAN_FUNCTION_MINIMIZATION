@@ -40,8 +40,7 @@ RegisterNumber: 212225040046/25013139*/
 
 
 **RTL realization**
-
-**Output:**
+![Output](https://github.com/Bharathymurugan/BOOLEAN_FUNCTION_MINIMIZATION/blob/main/Screenshot%202026-03-15%20171001.png?raw=true)
 
 **RTL**
 
